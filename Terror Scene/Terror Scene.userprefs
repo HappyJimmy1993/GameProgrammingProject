@@ -1,8 +1,8 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\HorrorEnvironment_AbandonedManor\Standard Assets\Image Effects (Pro Only)\AntialiasingAsPostEffect.js">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\HorrorEnvironment_AbandonedManor\Scripts\rimShader_simple.shader">
     <Files>
-      <File FileName="Assets\HorrorEnvironment_AbandonedManor\Standard Assets\Image Effects (Pro Only)\AntialiasingAsPostEffect.js" Line="108" Column="1" />
+      <File FileName="Assets\HorrorEnvironment_AbandonedManor\Scripts\rimShader_simple.shader" Line="6" Column="52" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
