@@ -3,8 +3,19 @@ guid: ba4479572bb1e984db2f00cdc9e90c38
 ModelImporter:
   serializedVersion: 18
   fileIDToRecycleName:
+    100000: //RootNode
+    100002: windowSmall_wing_L
+    100004: windowSmall_wing_R
+    400000: //RootNode
+    400002: windowSmall_wing_L
+    400004: windowSmall_wing_R
+    2300000: windowSmall_wing_L
+    2300002: windowSmall_wing_R
+    3300000: windowSmall_wing_L
+    3300002: windowSmall_wing_R
     4300000: windowSmall_wing_R
     4300002: windowSmall_wing_L
+    11100000: //RootNode
   materials:
     importMaterials: 0
     materialName: 0

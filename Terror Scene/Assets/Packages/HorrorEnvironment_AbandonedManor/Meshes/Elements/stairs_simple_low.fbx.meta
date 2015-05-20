@@ -3,7 +3,12 @@ guid: 3808ca7f37876494b94692be4f04807f
 ModelImporter:
   serializedVersion: 18
   fileIDToRecycleName:
+    100000: //RootNode
+    400000: //RootNode
+    2300000: //RootNode
+    3300000: //RootNode
     4300000: stairs_simple_low
+    11100000: //RootNode
   materials:
     importMaterials: 0
     materialName: 0

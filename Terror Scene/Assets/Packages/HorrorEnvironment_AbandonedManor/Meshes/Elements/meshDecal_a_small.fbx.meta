@@ -3,7 +3,12 @@ guid: ee0416400f8196d428f16ff74751c9e7
 ModelImporter:
   serializedVersion: 18
   fileIDToRecycleName:
+    100000: //RootNode
+    400000: //RootNode
+    2300000: //RootNode
+    3300000: //RootNode
     4300000: meshDecal_a_small
+    11100000: //RootNode
   materials:
     importMaterials: 0
     materialName: 0

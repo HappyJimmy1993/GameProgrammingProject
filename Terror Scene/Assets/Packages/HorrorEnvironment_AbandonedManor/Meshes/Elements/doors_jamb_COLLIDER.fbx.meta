@@ -3,7 +3,12 @@ guid: bb03f1f4571cca44c9b10798b9fe2aa1
 ModelImporter:
   serializedVersion: 18
   fileIDToRecycleName:
+    100000: //RootNode
+    400000: //RootNode
+    2300000: //RootNode
+    3300000: //RootNode
     4300000: doors_jamb_COLLIDER
+    11100000: //RootNode
   materials:
     importMaterials: 0
     materialName: 0

@@ -1,8 +1,9 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\HorrorEnvironment_AbandonedManor\Scripts\rimShader_simple.shader">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Charactor.cs">
     <Files>
-      <File FileName="Assets\HorrorEnvironment_AbandonedManor\Scripts\rimShader_simple.shader" Line="6" Column="52" />
+      <File FileName="Assets\Scripts\Charactor.cs" Line="21" Column="2" />
+      <File FileName="Assets\Scripts\CreateRooms.cs" Line="26" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

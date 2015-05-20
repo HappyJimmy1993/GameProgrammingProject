@@ -3,7 +3,12 @@ guid: 587ae606f470af74fa6874bbb60a8781
 ModelImporter:
   serializedVersion: 18
   fileIDToRecycleName:
+    100000: //RootNode
+    400000: //RootNode
+    2300000: //RootNode
+    3300000: //RootNode
     4300000: ceiling_skylight_big_cap
+    11100000: //RootNode
   materials:
     importMaterials: 0
     materialName: 0

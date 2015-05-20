@@ -3,7 +3,12 @@ guid: 79f308de9c242e84b92692d398257bb6
 ModelImporter:
   serializedVersion: 18
   fileIDToRecycleName:
+    100000: //RootNode
+    400000: //RootNode
+    2300000: //RootNode
+    3300000: //RootNode
     4300000: doors_wing_a_COLLIDER
+    11100000: //RootNode
   materials:
     importMaterials: 0
     materialName: 0

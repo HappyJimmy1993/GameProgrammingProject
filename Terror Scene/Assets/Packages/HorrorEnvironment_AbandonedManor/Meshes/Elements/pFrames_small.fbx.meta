@@ -3,9 +3,24 @@ guid: 234e6f814bd61e64b850afd90b91c949
 ModelImporter:
   serializedVersion: 18
   fileIDToRecycleName:
+    100000: //RootNode
+    100002: smallFrame_a
+    100004: smallFrame_b
+    100006: smallFrame_c
+    400000: //RootNode
+    400002: smallFrame_a
+    400004: smallFrame_b
+    400006: smallFrame_c
+    2300000: smallFrame_a
+    2300002: smallFrame_b
+    2300004: smallFrame_c
+    3300000: smallFrame_a
+    3300002: smallFrame_b
+    3300004: smallFrame_c
     4300000: smallFrame_a
     4300002: smallFrame_b
     4300004: smallFrame_c
+    11100000: //RootNode
   materials:
     importMaterials: 0
     materialName: 0

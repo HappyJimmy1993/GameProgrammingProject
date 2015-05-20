@@ -39,10 +39,10 @@
 	<Reference Include="System.Core" />
 	<Reference Include="System.Xml.Linq" />
 	<Reference Include="UnityEngine">
-	  <HintPath>G:/Program Files/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+	  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
 	</Reference>
 	<Reference Include="UnityEditor">
-	  <HintPath>G:/Program Files/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+	  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
 	</Reference>
   </ItemGroup>
   <ItemGroup>
@@ -63,6 +63,7 @@
      <Compile Include="Assets\Packages\HorrorEnvironment_AbandonedManor\Standard Assets\Image Effects (Pro Only)\SepiaToneEffect.cs" />
      <Compile Include="Assets\Packages\HorrorEnvironment_AbandonedManor\Standard Assets\Image Effects (Pro Only)\TwirlEffect.cs" />
      <Compile Include="Assets\Packages\HorrorEnvironment_AbandonedManor\Standard Assets\Image Effects (Pro Only)\VortexEffect.cs" />
+     <Compile Include="Assets\Scripts\Charactor.cs" />
      <Compile Include="Assets\Scripts\CreateRooms.cs" />
      <None Include="Assets\Packages\HorrorEnvironment_AbandonedManor\Scripts\Glass-Stained-BumpDistort.shader" />
      <None Include="Assets\Packages\HorrorEnvironment_AbandonedManor\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_BloomAndFlares\BlendOneOne.shader" />
@@ -128,7 +129,10 @@
      <None Include="Assets\Packages\HorrorEnvironment_AbandonedManor\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\EdgeDetectX.shader" />
      <None Include="Assets\Packages\HorrorEnvironment_AbandonedManor\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_Antialiasing\FXAAPreset2.shader" />
  <Reference Include="UnityEngine.UI">
- <HintPath>G:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
+ <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="LitJson">
+ <HintPath>E:/Projects/GameProgrammingProject/Terror Scene/Assets/Plugins/LitJson.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

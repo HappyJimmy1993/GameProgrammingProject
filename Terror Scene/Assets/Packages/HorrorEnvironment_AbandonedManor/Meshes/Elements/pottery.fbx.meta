@@ -3,10 +3,29 @@ guid: 095eabdbb1cf74d40acb5238fc586439
 ModelImporter:
   serializedVersion: 18
   fileIDToRecycleName:
+    100000: //RootNode
+    100002: pottery_A
+    100004: pottery_B
+    100006: pottery_C
+    100008: pottery_D
+    400000: //RootNode
+    400002: pottery_A
+    400004: pottery_B
+    400006: pottery_C
+    400008: pottery_D
+    2300000: pottery_A
+    2300002: pottery_B
+    2300004: pottery_C
+    2300006: pottery_D
+    3300000: pottery_A
+    3300002: pottery_B
+    3300004: pottery_C
+    3300006: pottery_D
     4300000: pottery_B
     4300002: pottery_A
     4300004: pottery_D
     4300006: pottery_C
+    11100000: //RootNode
   materials:
     importMaterials: 0
     materialName: 0

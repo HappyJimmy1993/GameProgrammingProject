@@ -3,10 +3,25 @@ guid: e4b3b1c9684dfee41bba234667766b65
 ModelImporter:
   serializedVersion: 18
   fileIDToRecycleName:
+    100000: //RootNode
+    100002: doors_handle_b
+    100004: doors_jamb
+    100006: doors_wing_e
+    400000: //RootNode
+    400002: doors_handle_b
+    400004: doors_jamb
+    400006: doors_wing_e
+    2300000: doors_handle_b
+    2300002: doors_jamb
+    2300004: doors_wing_e
+    3300000: doors_handle_b
+    3300002: doors_jamb
+    3300004: doors_wing_e
     4300000: doors_e
     4300002: doors_handle_b
     4300004: doors_wing_e
     4300006: doors_jamb
+    11100000: //RootNode
   materials:
     importMaterials: 0
     materialName: 0

@@ -3,7 +3,12 @@ guid: 5bd7732be47c620428662fd2784cd9c9
 ModelImporter:
   serializedVersion: 18
   fileIDToRecycleName:
+    100000: //RootNode
+    400000: //RootNode
+    2300000: //RootNode
+    3300000: //RootNode
     4300000: 2s_plane
+    11100000: //RootNode
   materials:
     importMaterials: 0
     materialName: 0

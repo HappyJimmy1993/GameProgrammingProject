@@ -3,7 +3,12 @@ guid: 1dd59f6d0fc9d0e409317f8386f1d712
 ModelImporter:
   serializedVersion: 18
   fileIDToRecycleName:
+    100000: //RootNode
+    400000: //RootNode
+    2300000: //RootNode
+    3300000: //RootNode
     4300000: barrier_heavy_curve_COLLIDER
+    11100000: //RootNode
   materials:
     importMaterials: 0
     materialName: 0

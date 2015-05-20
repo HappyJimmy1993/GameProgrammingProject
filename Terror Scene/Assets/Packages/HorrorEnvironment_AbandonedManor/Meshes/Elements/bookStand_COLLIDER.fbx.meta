@@ -3,7 +3,12 @@ guid: 81a65d2a2d5a1f044b801d88a31ae5c2
 ModelImporter:
   serializedVersion: 18
   fileIDToRecycleName:
+    100000: //RootNode
+    400000: //RootNode
+    2300000: //RootNode
+    3300000: //RootNode
     4300000: bookStand_COLLIDER
+    11100000: //RootNode
   materials:
     importMaterials: 0
     materialName: 0

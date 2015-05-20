@@ -3,7 +3,12 @@ guid: 91d45ec2081b978419394866714b73fa
 ModelImporter:
   serializedVersion: 18
   fileIDToRecycleName:
+    100000: //RootNode
+    400000: //RootNode
+    2300000: //RootNode
+    3300000: //RootNode
     4300000: wallPlane_doors
+    11100000: //RootNode
   materials:
     importMaterials: 0
     materialName: 0

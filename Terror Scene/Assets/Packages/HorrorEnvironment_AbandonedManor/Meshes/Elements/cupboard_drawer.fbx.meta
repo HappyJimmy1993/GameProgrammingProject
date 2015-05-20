@@ -3,7 +3,12 @@ guid: f68829960791c2a4192e976046ffc4b3
 ModelImporter:
   serializedVersion: 18
   fileIDToRecycleName:
+    100000: //RootNode
+    400000: //RootNode
+    2300000: //RootNode
+    3300000: //RootNode
     4300000: cupboard_drawer
+    11100000: //RootNode
   materials:
     importMaterials: 0
     materialName: 0

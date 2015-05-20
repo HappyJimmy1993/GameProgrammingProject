@@ -3,11 +3,34 @@ guid: 262ffd8ee680a5146bfc3df3d2a0ff2f
 ModelImporter:
   serializedVersion: 18
   fileIDToRecycleName:
+    100000: decal_A
+    100002: decal_B
+    100004: decal_C
+    100006: decal_D
+    100008: decal_E
+    100010: //RootNode
+    400000: decal_A
+    400002: decal_B
+    400004: decal_C
+    400006: decal_D
+    400008: decal_E
+    400010: //RootNode
+    2300000: decal_A
+    2300002: decal_B
+    2300004: decal_C
+    2300006: decal_D
+    2300008: decal_E
+    3300000: decal_A
+    3300002: decal_B
+    3300004: decal_C
+    3300006: decal_D
+    3300008: decal_E
     4300000: decal_C
     4300002: decal_B
     4300004: decal_E
     4300006: decal_D
     4300008: decal_A
+    11100000: //RootNode
   materials:
     importMaterials: 0
     materialName: 0

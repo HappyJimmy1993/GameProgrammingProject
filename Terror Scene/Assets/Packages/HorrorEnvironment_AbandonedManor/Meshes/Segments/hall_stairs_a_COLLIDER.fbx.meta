@@ -3,7 +3,12 @@ guid: 823b38f9e8a9bc644ae6ae108c9cb791
 ModelImporter:
   serializedVersion: 18
   fileIDToRecycleName:
+    100000: //RootNode
+    400000: //RootNode
+    2300000: //RootNode
+    3300000: //RootNode
     4300000: hall_stairs_a_COLLIDER
+    11100000: //RootNode
   materials:
     importMaterials: 0
     materialName: 0

@@ -3,7 +3,12 @@ guid: 6e89871f3d7da4b42b211bb86e1b2a6d
 ModelImporter:
   serializedVersion: 18
   fileIDToRecycleName:
+    100000: //RootNode
+    400000: //RootNode
+    2300000: //RootNode
+    3300000: //RootNode
     4300000: wall_b_wooden
+    11100000: //RootNode
   materials:
     importMaterials: 0
     materialName: 0

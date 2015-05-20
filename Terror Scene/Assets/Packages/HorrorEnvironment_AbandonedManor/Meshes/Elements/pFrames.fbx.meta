@@ -3,10 +3,29 @@ guid: f3d48a4d95233864397554aecdfe652f
 ModelImporter:
   serializedVersion: 18
   fileIDToRecycleName:
+    100000: pFrame_a
+    100002: pFrame_b
+    100004: pFrame_c
+    100006: pFrame_d
+    100008: //RootNode
+    400000: pFrame_a
+    400002: pFrame_b
+    400004: pFrame_c
+    400006: pFrame_d
+    400008: //RootNode
+    2300000: pFrame_a
+    2300002: pFrame_b
+    2300004: pFrame_c
+    2300006: pFrame_d
+    3300000: pFrame_a
+    3300002: pFrame_b
+    3300004: pFrame_c
+    3300006: pFrame_d
     4300000: pFrame_c
     4300002: pFrame_b
     4300004: pFrame_d
     4300006: pFrame_a
+    11100000: //RootNode
   materials:
     importMaterials: 0
     materialName: 0
